@@ -29,9 +29,9 @@ Bu proje, temel kullanıcı yönetimi işlevlerine sahip (Register, Login, Logou
 - Oluşturduğunuz girdiyle login olun.
 - Login ile birlikte gelen JWT tokenini girin ve logout ile çıkış yapın.
 
-##
-Kendi çalıştırma ortamınızda denemeden önce settings dosyasındaki bağlantı stringine kendi veri tabanınızın konfigürasyonuna uygun bir string yazmayı ve migrate etmeyi unutmayın.
+## Notlar
 
+Kendi çalıştırma ortamınızda denemeden önce settings dosyasındaki bağlantı stringine kendi veri tabanınızın konfigürasyonuna uygun bir string yazmayı ve migrate etmeyi unutmayın.
 
 
 Katkı yapmak isterseniz lütfen bir fork oluşturun ve pull request açın.
