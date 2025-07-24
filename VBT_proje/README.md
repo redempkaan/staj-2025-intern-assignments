@@ -11,7 +11,7 @@ Bu proje, temel kullanıcı yönetimi işlevlerine sahip (Register, Login, Logou
 ## Kullanılan Teknolojiler
 
 - C#
-- .NET
+- ASP.NET Core
 - JWT tabanlı kimlik doğrulama
 - MS SQL
 
