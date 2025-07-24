@@ -12,7 +12,7 @@ Bu proje, temel kullanıcı yönetimi işlevlerine sahip (Register, Login, Logou
 
 - C#
 - .NET
-- JWT veya Session tabanlı kimlik doğrulama
+- JWT tabanlı kimlik doğrulama
 - MS SQL
 
 ## API Endpointleri
