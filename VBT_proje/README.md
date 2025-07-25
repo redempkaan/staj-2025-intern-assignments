@@ -36,11 +36,11 @@ Kendi çalıştırma ortamınızda denemeden önce settings dosyasındaki bağla
 
 Katkı yapmak isterseniz lütfen bir fork oluşturun ve pull request açın.
 
-Bu proje kapsamında Grup 4 olarak birlikte çalıştığımız ekibimiz:
-https://github.com/pelinserbet
-https://github.com/ekdogan
-https://github.com/BgrOgz
-https://github.com/HelinYilmaz1
-https://github.com/emre-95
+Bu proje kapsamında Grup 4 olarak birlikte çalıştığımız ekibimiz:  
+https://github.com/pelinserbet  
+https://github.com/ekdogan  
+https://github.com/BgrOgz  
+https://github.com/HelinYilmaz1  
+https://github.com/emre-95  
 
 Bu proje MIT lisansı ile lisanslanmıştır.
